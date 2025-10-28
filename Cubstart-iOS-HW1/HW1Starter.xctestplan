@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "07BE2565-EC0F-4D22-895D-A19905DE6230",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:HW1Starter.xcodeproj",
+      "identifier" : "E8013ACC2C8E51CE00AA4F20",
+      "name" : "HW1Starter"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HW1Starter.xcodeproj",
+        "identifier" : "E8013ADC2C8E51CF00AA4F20",
+        "name" : "HW1StarterTests"
+      }
+    }
+  ],
+  "version" : 1
+}
